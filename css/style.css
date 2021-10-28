@@ -1,0 +1,66 @@
+header{
+    min-height: 100vh;
+    background-image:  linear-gradient(rgba(1, 14, 17, 0.699), rgba(155, 216, 228, 0.585)) ,  url(../images/cover\ 2.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+.navbar{
+    box-shadow: 0 5px 10px rgb(39, 82, 91);
+}
+.nav-item{
+    margin-left: 15px;
+}
+.nav-link{
+    font-size: 1.2rem;
+}
+.img-fluid{
+    opacity: 85%;
+}
+h2{
+    color: rgb(0, 0, 0);
+    font-size: 2rem;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+    text-align: center;
+    margin-top: 30px;
+
+}
+.hr1{
+    width: 150px;
+
+}
+.hr2{
+    width: 450px;
+    
+}
+footer{
+    background-color: black;
+    padding: 10px;
+}
+.form-check-inline{
+    padding: auto;
+    margin-left: 620px;
+    
+}
+.social{
+    padding: 20px;
+    margin-left: 50px;
+    
+    
+}
+.payment{
+    margin-left: 900px;
+    margin-top: -30px;
+    color: white;
+}
+.end{
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+    }
+    .name{
+        color: tomato;
+    }
